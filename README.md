@@ -13,12 +13,14 @@ You're looking at the revised Coin Pusher. This is version two which addressed s
 
 6) Rewrote code to use interrupts and drive servo.
 7) How to Assemble:
-8) https://youtu.be/OP2MLajT6DY?si=37OXRbuu2Dm2hHQy
+ https://youtu.be/OP2MLajT6DY?si=37OXRbuu2Dm2hHQy
 
-9) ![image](https://github.com/retrobuiltRyan/CoinPusher/assets/68818321/3b0224b8-dfc4-46a8-b45d-bd58d76d9d9b)
+
+ ![image](https://github.com/retrobuiltRyan/CoinPusher/assets/68818321/3b0224b8-dfc4-46a8-b45d-bd58d76d9d9b)
 
 ![image](https://github.com/retrobuiltRyan/CoinPusher/assets/68818321/dd8e8c9e-ceac-41dd-a43f-deaa02d7e2ca)
 
 
 
 Version 1.0 here:
+https://youtu.be/gXyccpBoVvA
